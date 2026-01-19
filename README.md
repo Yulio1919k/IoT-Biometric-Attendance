@@ -1,4 +1,4 @@
-![Imagen referencial](img1.jpeg)
+![Imagen referencial](img1.png)
 ESPAÑOL
 # IoT-Biometric-Attendance
 ## 📌 Descripción
